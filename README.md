@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm swagat</h1>
 <h3 align="center">An aspiring fullStack developer from India.</h3>
-<img align="right" alt="coding" width = "500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="coding" width = "500" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
 
 <p align="left"> <img src="https://media.giphy.com/media/npIVZg7MYoEUg/giphy.gif" /> </p>
 
