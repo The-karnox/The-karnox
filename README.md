@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring fullStack developer from India.</h3>
 <img align="right" alt="coding" width = "500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-karnox&label=Profile%20views&color=0e75b6&style=flat" alt="the-karnox" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/npIVZg7MYoEUg/giphy.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-karnox" alt="the-karnox" /></a> </p>
 
