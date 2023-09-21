@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm swagat</h1>
-<h3 align="center">An aspiring fullStack developer from India.</h3>
+<h3 align="center">A digital craftsman who is not afraid of being mired by errors.</h3>
 <img align="right" alt="coding" width = "300" src="https://media1.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif">
 
 <p align="left"> <img src="https://media.giphy.com/media/npIVZg7MYoEUg/giphy.gif" /> </p>
