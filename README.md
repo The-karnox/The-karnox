@@ -17,7 +17,7 @@
 <p align="left">
 <a href="[https://codepen.io/@the-karnox](https://codepen.io/The-karnox)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@the-karnox" height="30" width="40" /></a>
 <a href="https://dev.to/dev.to the-karnox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to the-karnox" height="30" width="40" /></a>
-<a href="[https://instagram.com/https://www.instagram.com/bidus_rickus/#](https://www.instagram.com/bidus_rickus?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bidus_rickus/#" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bidus_rickus?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bidus_rickus/#" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
