@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://media.giphy.com/media/npIVZg7MYoEUg/giphy.gif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-karnox" alt="the-karnox" /></a> </p>
+
 
 - 🌱 I’m currently learning **java script frameworks, java,python,css**
 
